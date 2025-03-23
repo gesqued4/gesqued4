@@ -34,7 +34,15 @@
 <br>
 
 ### Socials🌐
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gerardo_esqued4) 
+
+<div align="left">
+  <a href="https://mx.linkedin.com/in/gerardoesqueda" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gerardo_esqued4/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" alt="instagram logo"  />
+  </a>
+</div>
 
 <br>
 
