@@ -20,8 +20,8 @@
 ## I'm a Computer Science Engineering student from Jalisco, MX 🇲🇽
 
 - 📚 Studying at **UDG CUALTOS**
-- 💻 Learning **JAVA**
-- 🎯 2025 Goal learn **Data Structure**
+- 👾 Learning **JAVA**
+- 🏆 2025 Goal learn **Data Structure**
 
 
 <br>
