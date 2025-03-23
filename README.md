@@ -24,7 +24,6 @@
     <img alt="java" width="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </div>
   
-<br> 
 <br>
  
 ### Tools🛠️ 
