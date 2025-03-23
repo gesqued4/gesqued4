@@ -1,7 +1,8 @@
 ---
 
 
-#👋 `<HelloWorld>` I'm Gerardo Esqueda
+#👋 \<HelloWorld\> I'm Gerardo Esqueda
+
 
 
 
