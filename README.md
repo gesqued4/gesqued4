@@ -3,7 +3,7 @@
 
 <h1>👋&lt;HelloWorld&gt; I'm Gerardo Esqueda!</h1>
 
-
+<img src="https://raw.githubusercontent.com/gesqued4/gesqued4/output/snake.svg" alt="Snake animation" />
 
 
 
