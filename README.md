@@ -21,7 +21,7 @@
 
 - 📚 Studying at **UDG CUALTOS**
 - 💻 Learning **JAVA**
-- 🎯 2025 Goal: Learn data structure
+- 🎯 2025 Goal learn **Data Structure**
 
 
 <br>
