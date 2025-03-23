@@ -1,7 +1,7 @@
 ---
 
 
-# Hi👋, I am Gerardo
+# Hi👋! My name is Gerardo Esqueda and I'm computer science student from 🇲🇽
 
 
 
