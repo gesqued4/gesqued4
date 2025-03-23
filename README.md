@@ -27,7 +27,7 @@
  
 ### Tools:  
 <img align="left" alt="vsc" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> 
-<img align="left" alt="apache" width="130px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />
+<img align="left" alt="apache" width="100px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />
 
 <br>
 <br>
