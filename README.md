@@ -17,11 +17,12 @@
 </div>
 <br>
 
-## I'm a Computer Science Engineering student from Jalisco, MX
+## I'm a Computer Science Engineering student from Jalisco, MX 🇲🇽
 
-- 📚 Studying at UDG CUALTOS
-- 👾 Currently learning c++
-- 📔 2024 goals learn some basics commands on git
+- 📚 Studying at **UDG CUALTOS**
+- 💻 Learning **JAVA**
+- 🎯 2025 Goal: Learn data structure
+
 
 <br>
 
