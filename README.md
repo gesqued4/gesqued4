@@ -5,8 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/gesqued4/gesqued4/output/snake.svg" alt="Snake animation" />
 
-<br>
-
 ## I'm a Computer Science Engineering student from Jalisco, MX 🇲🇽
 
 - 📚 Studying at **UDG CUALTOS**
