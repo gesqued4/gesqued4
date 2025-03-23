@@ -24,8 +24,6 @@
     <img alt="java" width="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </div>
   
-<br>
- 
 ### Tools🛠️ 
 <img align="left" alt="vsc" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> 
 <img align="left" alt="apache" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" />
