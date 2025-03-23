@@ -5,16 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/gesqued4/gesqued4/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-<div align="center">
-  <a href="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif">
-  <img  src="https://analystcave.com/wp-content/uploads/2014/10/VBA-Progress-Bar.gif"
-       alt="loading" 
-    /></a>
-</div>
 <br>
 
 ## I'm a Computer Science Engineering student from Jalisco, MX 🇲🇽
@@ -22,7 +12,6 @@
 - 📚 Studying at **UDG CUALTOS**
 - 👾 Learning **JAVA**
 - 🏆 2025 Goal learn **Data Structure**
-
 
 <br>
 
