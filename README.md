@@ -20,7 +20,7 @@
   
 ### Languages:
 <img align="left" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />  
-
+<img align="left" alt="java" width="50px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
   
 <br> 
 <br>
