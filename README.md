@@ -35,14 +35,14 @@
 
 ### Socials🌐
 
-<div align="left">
+
   <a href="https://mx.linkedin.com/in/gerardoesqueda" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="linkedin logo"  />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gerardo_esqued4/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" alt="instagram logo"  />
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" alt="instagram logo"  />
   </a>
-</div>
+
 
 <br>
 
