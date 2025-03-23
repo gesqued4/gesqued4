@@ -1,7 +1,7 @@
 ---
 
 
-<h1>👋&lt;HelloWorld&gt; I'm Gerardo Esqueda!</h1>
+<h1>👋**&lt;HelloWorld&gt;** I'm Gerardo Esqueda!</h1>
 
 
 
