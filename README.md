@@ -35,7 +35,6 @@
 
 ### Socials🌐
 
-
   <a href="https://mx.linkedin.com/in/gerardoesqueda" target="_blank">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" alt="linkedin logo"  />
   </a>
@@ -44,6 +43,7 @@
   </a>
 
 
+<br>
 <br>
 
 # 📊 GitHub Stats:
